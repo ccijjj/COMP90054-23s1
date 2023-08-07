@@ -1,4 +1,4 @@
-# COMP90054-tutes
+# COMP90054-23s1
 
 Tutorial notes for COMP90054 - AI Planning for Autonomy
 
